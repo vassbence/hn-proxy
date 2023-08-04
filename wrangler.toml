@@ -1,0 +1,4 @@
+name = "hn-proxy"
+main = "src/worker.ts"
+compatibility_date = "2023-07-11"
+usage_model = "bundled"
